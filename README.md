@@ -10,3 +10,5 @@ I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute o
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/berkay-d%C3%B6nmez-b7948872/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+### Donate me!
+_ERC-20_: 0x6651a2A468dFdbA57946f64E90a4cF13Ed5327FA
