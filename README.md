@@ -3,7 +3,7 @@
 I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute of High Technology.
 
 - 📫 How to reach me: You can send me an email to [berkaydonmez1601@gmail.com](mailto://berkaydonmez1601@gmail.com)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkyydnmz&layout=compact)<br>
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkyydnmz&layout=compact&theme=codeSTACKr)<br>
 - ![brkyydnmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkyydnmz&theme=codeSTACKr&show_icons=true)
 
 ## 🔗 Let's Connect!
