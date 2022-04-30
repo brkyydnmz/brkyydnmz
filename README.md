@@ -6,3 +6,5 @@ I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute o
 
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/berkay-d%C3%B6nmez-b7948872/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkyydnmz&layout=compact)
+![brkyydnmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkyydnmz&theme=codeSTACKr&show_icons=true)
