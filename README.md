@@ -28,3 +28,6 @@ I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute o
 
 ### Donate me!
 _ERC-20_: 0x6651a2A468dFdbA57946f64E90a4cF13Ed5327FA
+
+### 🎧 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11175573378&cover_image=true&theme=default&bar_color=6c706b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
