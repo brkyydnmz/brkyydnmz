@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/brkyydnmz/brkyydnmz/blob/main/waving.gif">, I'm Berkay</h1>
 
 I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute of High Technology.
 
