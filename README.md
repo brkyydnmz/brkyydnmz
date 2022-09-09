@@ -11,11 +11,6 @@ I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute o
 -  🧠  I'm learning Web3 
 -  🤝  I'm open to collaborating on WEB3
 
-- ![brkyydnmz's GitHub stats](https://github-readme-stats.vercel.app/api?username=brkyydnmz&theme=github_dark) 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkyydnmz&layout=compact&theme=github_dark&card_width=445)
-
-
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
