@@ -15,6 +15,23 @@ I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute o
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brkyydnmz&layout=compact&theme=github_dark&card_width=445)
 
 
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+    <h2 align="center"> 📊 Github stats </h2>
+      <br/>
+        <p align="center">
+          <a href="https://github.com/brkyydnmz/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=brkyydnmz&theme=github_dark" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkyydnmz&layout=compact&theme=github_dark&card_width=445" />
+          </a>
+       </p>
+     <br>
+  </div>    
+</details>
+
+
 ### Skills
 
 <p align="left">
