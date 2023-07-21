@@ -8,8 +8,8 @@
 I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute of High Technology.
 
 - 📫 How to reach me: You can send me an email to [berkaydonmez1601@gmail.com](mailto://berkaydonmez1601@gmail.com)
--  🧠  I'm learning Web3 
--  🤝  I'm open to collaborating on WEB3
+-  🧠  I'm learning Mobile Developing
+-  🤝  I'm open to collaborating on React Native
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -57,6 +57,5 @@ I'm Berkay. I'm studying Mathematics & Computer Engineering in Izmir Institute o
   </div>    
 </details>
 
-### Donate me!
-_ERC-20_: 0x6651a2A468dFdbA57946f64E90a4cF13Ed5327FA
+
 
