@@ -10,8 +10,6 @@
 
 - 🔭 I’m currently working on **React Native**
 
-- 👯 I’m looking to collaborate on **Data Science, web3**
-
 - 📫 How to reach me **berkaydonmez1601@gmail.com**
 
 
