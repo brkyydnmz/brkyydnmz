@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay Dönmez</h1>
-<h3 align="center">A passionate mobile developer. I'm studying Mathematics & Computer Engineering in Izmir Institute of High Technology.</h3>
+<h3 align="center">A passionate mobile developer.</h3>
 <div align="center">
 
 <img  src="https://github.com/brkyydnmz/brkyydnmz/blob/main/grid-snake.svg"
